@@ -1,6 +1,6 @@
 Garmin Forerunner 165: The Perfect Fusion of Simplicity and Smart Fitness
 ==========================================================================
-
+.. toctree::
    :maxdepth: 2
    :caption: Contents: 
 
