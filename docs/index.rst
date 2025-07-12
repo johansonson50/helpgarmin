@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
+
 Garmin Forerunner 165: The Perfect Fusion of Simplicity and Smart Fitness
 ==========================================================================
 .. toctree::
